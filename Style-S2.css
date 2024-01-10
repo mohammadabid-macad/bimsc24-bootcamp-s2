@@ -1,0 +1,55 @@
+html{
+background-color: rgb(155, 212, 212);
+
+color:rgb(6, 6, 148);
+
+body{
+margin: 0;
+
+}
+
+
+div{
+
+    box-sizing: border-box;
+
+}
+
+#navbar{
+
+    height: 50px;
+    
+
+}
+
+#flex{
+
+    display: flex;
+    height: calc(100vh)
+     ;
+
+}
+
+    #sidebar{
+
+        width: 30%;
+
+    }
+
+    #main{
+
+        width: 70%;
+
+    }
+
+
+.container{
+
+    border-style:solid;
+    border-color: black
+    border-;
+
+}
+
+
+}
